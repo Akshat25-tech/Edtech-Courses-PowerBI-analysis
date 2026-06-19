@@ -27,26 +27,46 @@ across categories and languages.
 ## Key Findings
 - English dominates the dataset at 97.37% of all courses, highlighting a major opportunity 
   to expand non-English content
-- [Add 2-3 more standout findings here from your other pages]
+- Data Science has the highest average registrations per course (6,326.70), ranking #1 among categories
+- Course-type content drives the most total views (7.0M), while Specializations have the highest average views per course (3.4K)
 
 ## Dashboard Preview
 
 ### Home Page
 ![Home Page](screenshots/01_home.png)
 
-### Q1 – Total Courses
+### Q1 – Total Number of Courses
 ![Q1](screenshots/02_q1.png)
 
-### Q2 – Average Rating
+### Q2 – Average Course Rating
 ![Q2](screenshots/03_q2.png)
 
-### Q6 – Language Distribution
+### Q3 – Total and Average Views Across Courses
+![Q3](screenshots/04_q3.png)
+
+### Q4 – Course Distribution by Category and Sub-Category
+![Q4](screenshots/05_q4.png)
+
+### Q5 – Average Views by Category and Language
+![Q5](screenshots/06_q5.png)
+
+### Q6 – Distribution of Language and Category Across Courses
 ![Q6](screenshots/07_q6.png)
 
-### Q10 – Duration vs Views
+### Q7 – Language Preferences for Top 5 Categories
+![Q7](screenshots/08_q7.png)
+
+### Q8 – Impact of Subtitles on Viewer Engagement
+![Q8](screenshots/09_q8.png)
+
+### Q9 – Top 3 Instructors by Category and Sub-Category
+![Q9](screenshots/10_q9.png)
+
+### Q10 – Course Duration vs Viewer Engagement
 ![Q10](screenshots/11_q10.png)
 
-*(Add the remaining pages following the same pattern: `![Page Name](screenshots/filename.png)`)*
+### Conclusion
+![Conclusion](screenshots/12_conclusion.png)
 
 ## Tools Used
 - Power BI Desktop (data modeling, DAX, visualization)
