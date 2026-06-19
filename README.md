@@ -33,40 +33,40 @@ across categories and languages.
 ## Dashboard Preview
 
 ### Home Page
-![Home Page](screenshots/01_home.png)
+![Home Page](Screenshots/01_home.png)
 
 ### Q1 – Total Number of Courses
-![Q1](screenshots/02_q1.png)
+![Q1](Screenshots/02_q1.png)
 
 ### Q2 – Average Course Rating
-![Q2](screenshots/03_q2.png)
+![Q2](Screenshots/03_q2.png)
 
 ### Q3 – Total and Average Views Across Courses
-![Q3](screenshots/04_q3.png)
+![Q3](Screenshots/04_q3.png)
 
 ### Q4 – Course Distribution by Category and Sub-Category
-![Q4](screenshots/05_q4.png)
+![Q4](Screenshots/05_q4.png)
 
 ### Q5 – Average Views by Category and Language
-![Q5](screenshots/06_q5.png)
+![Q5](Screenshots/06_q5.png)
 
 ### Q6 – Distribution of Language and Category Across Courses
-![Q6](screenshots/07_q6.png)
+![Q6](Screenshots/07_q6.png)
 
 ### Q7 – Language Preferences for Top 5 Categories
-![Q7](screenshots/08_q7.png)
+![Q7](Screenshots/08_q7.png)
 
 ### Q8 – Impact of Subtitles on Viewer Engagement
-![Q8](screenshots/09_q8.png)
+![Q8](Screenshots/09_q8.png)
 
 ### Q9 – Top 3 Instructors by Category and Sub-Category
-![Q9](screenshots/10_q9.png)
+![Q9](Screenshots/10_q9.png)
 
 ### Q10 – Course Duration vs Viewer Engagement
-![Q10](screenshots/11_q10.png)
+![Q10](Screenshots/11_q10.png)
 
 ### Conclusion
-![Conclusion](screenshots/12_conclusion.png)
+![Conclusion](Screenshots/12_conclusion.png)
 
 ## Tools Used
 - Power BI Desktop (data modeling, DAX, visualization)
