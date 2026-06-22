@@ -73,7 +73,7 @@ across categories and languages.
 - Power Query (data cleaning)
 
 ## Files
-- `Mini_Power_BI_project.pbix` – Full Power BI report file
+- `Mini Power BI project.pbix` – Full Power BI report file
 - Dataset: Online Courses dataset (EdTech, multi-platform)
 
 ## Conclusion
